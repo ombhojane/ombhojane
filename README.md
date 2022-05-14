@@ -11,3 +11,5 @@ Here are some ideas to get you started:
   
 - 😄 Pronouns: No need to hesistate, just call me **omi**
 - ⚡ Fun fact: I like to observe night sky, it's peaceful and interesting!
+
+<img src="https://github-readme-stats.vercel.app/api?username=ombhojane">
