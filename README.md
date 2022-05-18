@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: No need to hesistate, just call me **omi**
 - ⚡ Fun fact: I like to observe night sky, it's peaceful and interesting!
 
-<a href="https://github-readme-stats.vercel.app/api?username=ombhojane"> Github Stats </a> <br> <br>
+<a href="https://github-readme-stats.vercel.app/api?username=ombhojane"> Github Stats : Data Tells much more... </a> <br> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ombhojane">
