@@ -1,9 +1,4 @@
 <head> 
-  <style>
-   a{
-      padding-left: 80px;
-    }
-  </style>
 </head>
 
 ### Hi I'm Om Bhojane 
