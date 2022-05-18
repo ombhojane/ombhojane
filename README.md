@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to observe night sky, it's peaceful and interesting!
 
 <a href="https://github-readme-stats.vercel.app/api?username=ombhojane"> Github Stats </a> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=ombhojane">
