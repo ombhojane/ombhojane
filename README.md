@@ -2,7 +2,7 @@
 </head>
 
 ### Hi I'm Om Bhojane 
-I'm a passionate AI developer and hackathon enthusiast driven to build innovative solutions to real-world problems. With strong skills in HTML, CSS, JavaScript, and frameworks like React and Next.js, I create smooth, responsive web apps that users love.
+I'm a passionate AI developer and hackathon enthusiast driven to build innovative solutions to real-world problems. With strong skills in User Interface Prototyping, and frameworks like React and Next.js, I create smooth, responsive web apps that users love.
 
 Things I'm excited about: <br>
 • Participating in hackathons and tech events - I love the thrill of quickly learning, collaborating, and building something new. It pushes me out of my comfort zone in the best way! <br>
